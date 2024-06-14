@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationInsightsResourceId>/subscriptions/6c679747-d520-41e8-91f0-b5d8903756c1/resourceGroups/Bigschool/providers/microsoft.insights/components/forweb</ApplicationInsightsResourceId>
+    <UserSecretsId>c3ff09ad-19af-4be5-837c-577c6adf64ac</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
+  </ItemGroup>
+
+</Project>
