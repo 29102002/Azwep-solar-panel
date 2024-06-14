@@ -4,6 +4,9 @@ you can check the project (Project Demo URL) :- https://azwep20240614161926.azur
 Azwep is the web application develop using Azure services like app service , AI bot service , language service and also hosted by Azure using web app 
 *****Important note unzip the obj folder before start***** 
 
+![Screenshot 2024-06-15 001633](https://github.com/29102002/Azwep-solar-panel/assets/116373266/3dc0d596-e220-447e-9d83-711e8a204559)
+***** First page of the site******
+
 ![Screenshot 2024-06-13 103725](https://github.com/29102002/Azwep-solar-panel/assets/116373266/4fff48aa-4e48-44f6-a6bd-113df950557c)
 
 creating language
