@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-06-14T14:25:16.5409178Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2024-06-14T14:25:44.8984036Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Bigschool"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "6c679747-d520-41e8-91f0-b5d8903756c1"
+    }
+  }
+}
