@@ -5,8 +5,11 @@ Azwep is the web application develop using Azure services like app service , AI 
 *****Important note unzip the obj folder before start***** 
 
 ![Screenshot 2024-06-15 001633](https://github.com/29102002/Azwep-solar-panel/assets/116373266/3dc0d596-e220-447e-9d83-711e8a204559)
-***** First page of the site******
-
+ First page of the site
+![Screenshot 2024-06-15 001711](https://github.com/29102002/Azwep-solar-panel/assets/116373266/91806d27-b586-4566-90c4-9ffc1f3ab1fe)
+chatbot working 
+![Screenshot 2024-06-15 001726](https://github.com/29102002/Azwep-solar-panel/assets/116373266/577514a8-27ab-4752-acaa-5c8b2695742e)
+second page of the site 
 ![Screenshot 2024-06-13 103725](https://github.com/29102002/Azwep-solar-panel/assets/116373266/4fff48aa-4e48-44f6-a6bd-113df950557c)
 
 creating language
